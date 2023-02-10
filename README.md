@@ -1,4 +1,5 @@
 # CoverTheTiles
+#This is the Kutaisi International University's assignment. Java Courses By Nikoloz Aneli
 two-person dice game
 There are ten numbered tiles (from 1 to 10) which in the beginning, are all open.
 
